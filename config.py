@@ -1,6 +1,6 @@
 from nonebot.default_config import *
 
-SUPERUSERS = {263018257}
+SUPERUSERS = {}
 COMMAND_START = {'', '/', '!', '／', '！'}
 
 HOST = '0.0.0.0'
